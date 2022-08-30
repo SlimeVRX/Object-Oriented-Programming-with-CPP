@@ -1,1 +1,8 @@
-# Object-Oriented-Programming-with-CPP
+# LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG VỚI C++
+TÁC GIẢ:
+- LÊ ĐĂNG HƯNG
+- TẠ TUẤN ANH
+- NGUYỄN HỮU ĐỨC
+- NGUYỄN THANH THỦY
+
+NHÀ XUẤT BẢN KHOA HỌC VÀ KĨ THUẬT - 1999
